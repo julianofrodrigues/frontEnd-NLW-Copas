@@ -5,7 +5,7 @@ Front-end of the NLW Copas project, where you can view registered games and regi
 The back-end is at this repository: come here!<br>
 The mobile project is in this other repository: come here!
 
-## Application images below 👾
+## Application images below 
 </p>
 <p align="center">
 <img src="https://i.imgur.com/NYYLlDg.png"/><br>
