@@ -2,8 +2,8 @@
 
 # Project Summary
 Front-end of the NLW Copas project, where you can view registered games and register pools and create a pool 😏 <br>
-The back-end is at this repository: come here!<br>
-The mobile project is in this other repository: come here!
+The back-end is at this repository: https://github.com/julianofrodrigues/backEnd-NLW-Copas<br>
+The mobile project is in this other repository: https://github.com/julianofrodrigues/mobile-NLW-Copas
 
 ## Application images below 
 </p>
