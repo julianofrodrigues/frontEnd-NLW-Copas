@@ -31,7 +31,7 @@ $ yarn dev
 ```
 Or
 ```bash
-$ npm dev
+$ npm run dev
 ```
 
 ## ✔️ Techniques and technologies used
